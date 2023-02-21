@@ -1,0 +1,53 @@
+.hero{
+    /* display: flex;
+    justify-content: center;
+    background-color: #fff;
+    align-items: center; */
+    margin: 0 auto;
+    width: 30%;
+    /* height: 40%; */
+    border-radius: 13px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+#value{
+    font-size: 120px;
+    margin: 30px;
+
+}
+#increament{
+    background-color: green;
+    /* width: 20%;
+    height: 50%; */
+    border-radius: 13px;
+    color: #fff;
+    border: 2px solid green;
+    font-size: 24px;
+    padding: 16px 32px;
+    margin: 32px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+#decreament{
+    background-color: red;
+    /* width: 20%;
+    height: 50%; */
+    border-radius: 13px;
+    color: #fff;
+    border: 2px solid red;
+    font-size: 24px;
+    padding: 16px 32px;
+    margin: 32px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+#reset{
+    background-color: rgb(80, 78, 78);
+    /* width: 20%;
+    height: 50%; */
+    border-radius: 13px;
+    color: #fff;
+    border: 2px solid rgb(80, 78, 78);
+    font-size: 24px;
+    padding: 16px 32px;
+    margin-bottom: 32px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
